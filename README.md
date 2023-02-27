@@ -27,3 +27,6 @@ root@hostname:/FlexGen# python3 apps/chatbot.py --model facebook/opt-6.7b --comp
 
 # Reference
 - https://agirobots.com/flexgen/
+
+# 参考
+[自宅で動くChatGPTと噂のFlexGenをDockerで手軽に動かす](https://zenn.dev/karaage0703/articles/de7045e9792623)
